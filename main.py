@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 16 14:12:01 2021
 
-@author: Samaung
-"""
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import time
